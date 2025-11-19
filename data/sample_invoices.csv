@@ -1,0 +1,6 @@
+invoice_id,vendor,amount,department,date
+INV001,ABC Supplies,4500,IT,2024-01-03
+INV002,Global Traders,9800,Finance,2024-01-05
+INV003,Quick Office,1200,HR,2024-01-06
+INV004,OfficeHub,8600,IT,2024-01-08
+INV005,XYZ International,15000,Logistics,2024-01-10
